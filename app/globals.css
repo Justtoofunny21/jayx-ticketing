@@ -1,0 +1,13 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#0b0b0f;color:#f4f4f6;line-height:1.5}
+main{max-width:520px;margin:0 auto;padding:28px 20px 60px}
+h1{font-size:28px;margin:0 0 4px}.muted{color:#9a9aa6}
+.card{background:#16161d;border:1px solid #26262f;border-radius:16px;padding:18px;margin:16px 0}
+label{display:block;font-size:13px;color:#9a9aa6;margin:14px 0 6px}
+input,select,button{width:100%;font:inherit;padding:13px 14px;border-radius:12px;border:1px solid #2c2c37;background:#0f0f15;color:#fff}
+button{background:#f5c542;color:#111;font-weight:700;border:0;margin-top:18px;cursor:pointer}
+button:disabled{opacity:.5}
+.err{color:#ff6b6b;margin-top:12px;font-size:14px}
+.ticket{text-align:center}.ticket img{width:220px;height:220px;background:#fff;padding:10px;border-radius:12px}
+.tid{font-family:ui-monospace,monospace;font-size:20px;letter-spacing:1px;margin:10px 0 2px}
+.big{font-size:34px;font-weight:800;text-align:center;padding:26px;border-radius:16px;margin-top:16px}
+.ok{background:#12351f;color:#4be37f}.no{background:#3a1515;color:#ff6b6b}.warn{background:#3a2f10;color:#f5c542}
